@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de40a9c-e001-47e4-830f-38261da4fcfa" name="Changes" comment="sfr">
+    <list default="true" id="2de40a9c-e001-47e4-830f-38261da4fcfa" name="Changes" comment="commit ivan">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713202119445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit ivan">
+      <option name="closed" value="true" />
+      <created>1713202353594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713202353594</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sfr" />
-    <option name="LAST_COMMIT_MESSAGE" value="sfr" />
+    <MESSAGE value="commit ivan" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit ivan" />
   </component>
 </project>
